@@ -1,0 +1,1 @@
+# Algorithemic_trading-Equal-Weight-S-P-500-screener-
